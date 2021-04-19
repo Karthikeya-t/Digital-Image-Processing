@@ -1,10 +1,13 @@
 # Digital-Image-Processing
-BT18ECE055 T VENKATA KARTHIKEYA 
+# BT18ECE055 T VENKATA KARTHIKEYA 
+
+
+# ALL FILES AVAILABLE  IN
+
+https://github.com/Karthikeya-t/Digital-Image-Processing/blob/main/DIP.ipynb
 
 colab file link which contains all codes
 https://colab.research.google.com/drive/1G_XpaQ_W6Kvz2MtsOEaQ3dpL-hLtaTsP?usp=sharing
-
-# ALL FILES IN https://github.com/Karthikeya-t/Digital-Image-Processing/blob/main/DIP.ipynb
 
 T VENKATA KARTHIKEYA
 
